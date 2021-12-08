@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "es2015",
+    "module":"es2015",
+    "allowJs": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "isolatedModules": true
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.test.ts"
+  ]
+}
